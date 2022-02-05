@@ -1,0 +1,10 @@
+No git para adicionar uma pasta nova local
+para o servidor remoto do github tenho 
+que digitar os seguintes comandos:
+1- git status para ver a nova pasta (ela estará vermelha)
+2- git add . ou git add -A (para adicionar todos os arquivos)
+3- git status novamente irá ver verde e já adicionado
+4- git commit -m "Inclusão das dicas do curso de Git/GitHub"
+5- git push origin main
+6- esse ultimo foi para enviar o commit local para nuvem
+  
